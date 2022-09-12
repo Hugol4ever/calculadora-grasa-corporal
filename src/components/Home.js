@@ -37,27 +37,27 @@ class Home extends Component {
       </div>
       <div className="row mt-5">
         <div className="col" align="center">
-          <figure class="figure first mb-0"/><br />
+          <figure className="figure first mb-0"/><br />
           <label className="small font-weight-bold mb-0">2-4%</label>
           <label className="small">Escencial</label>
         </div>
         <div className="col" align="center">
-          <figure class="figure second mb-0"/><br />
+          <figure className="figure second mb-0"/><br />
           <label className="small font-weight-bold mb-0">6-13%</label>
           <label className="small">Deportista</label>
         </div>
         <div className="col" align="center">
-          <figure class="figure third mb-0"/><br />
+          <figure className="figure third mb-0"/><br />
           <label className="small font-weight-bold mb-0">14-17%</label>
           <label className="small">Fitness</label>
         </div>
         <div className="col" align="center">
-          <figure class="figure fourth mb-0"/><br />
+          <figure className="figure fourth mb-0"/><br />
           <label className="small font-weight-bold mb-0">18-25%</label>
           <label className="small">Aceptable</label>
         </div>
         <div className="col" align="center">
-          <figure class="figure fifth mb-0"/><br />
+          <figure className="figure fifth mb-0"/><br />
           <label className="small font-weight-bold mb-0">25% +</label>
           <label className="small">Obeso</label>
         </div>
