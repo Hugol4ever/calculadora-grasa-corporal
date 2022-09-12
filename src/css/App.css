@@ -1,0 +1,88 @@
+.App {
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #8667f0;
+  color: #fff;
+}
+
+.btn-white {
+  color: #fff!important;
+}
+
+input.transparent-input {
+  background-color:rgba(0,0,0,0)!important;
+  color: #fff!important;
+}
+
+.transparent-input-noborder {
+  background-color:rgba(0,0,0,0)!important;
+  color: #fff!important;
+  border: none;
+}
+
+.border-radious {
+  -webkit-border-radius: 30px !important;
+     -moz-border-radius: 30px !important;
+          border-radius: 30px !important;
+}
+
+.progress-bar {
+  background-image: linear-gradient(to right, #009fe3, #009c3d, #98c21d, #feca00, #ee6f2b, #d76328);
+}
+
+.progress {
+  min-height: 80px;
+}
+
+.progress.icon {
+  background-color:rgba(0,0,0,0)!important;
+}
+
+.progress-bar-icon {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: width .6s ease;
+  -o-transition: width .6s ease;
+  transition: width .6s ease;
+  background-color:rgba(0,0,0,0)!important;
+}
+
+.figure {
+  width: 12px;
+  height: 12px;
+  -webkit-border-radius: 1px !important;
+     -moz-border-radius: 1px !important;
+          border-radius: 1px !important;
+}
+
+.figure.first {
+  background-color: #009fe3;
+}
+
+.figure.second {
+  background-color: #009c3d;
+}
+
+.figure.third {
+  background-color: #98c21d;
+}
+
+.figure.fourth {
+  background-color: #feca00;
+}
+
+.figure.fifth {
+  background-color: #ee6f2b;
+}
